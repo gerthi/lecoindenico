@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Voltaire&display=swap");
+
+.highlight {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #ffc700 65%);
+  display: inline;
+  font-weight: bold;
+}
+
+p a {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 65%, #daf7a6 65%);
+  border-bottom: none !important;
+}
