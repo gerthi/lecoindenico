@@ -17,7 +17,7 @@ module.exports = {
         "hero-pattern":
           "url('https://images.unsplash.com/photo-1506280754576-f6fa8a873550?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80');",
         "food-pattern":
-          "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,.8) 70%, rgba(255,255,255,.1) 100%), url('../../public/food_bg.png');",
+          "linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(255,255,255,.8) 70%, rgba(255,255,255,.1) 100%), url('https://lecoindenico.ch/food_bg.png');",
       }),
       boxShadow: {
         orange: "8px 8px 0px 2px rgba(255,170,1)",
